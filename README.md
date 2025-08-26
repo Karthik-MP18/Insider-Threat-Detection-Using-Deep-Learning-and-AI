@@ -100,13 +100,16 @@ The model was evaluated on a comprehensive test set, demonstrating exceptional p
 
 ## 🗂️ Project Structure
 Insider-Threat-Detection/
-├── data/
+│
+├── data/ # Input data directory
 │ └── README.md # Dataset download instructions
+│
 ├── imports.py # Centralized import statements
 ├── preprocess.py # Data loading and cleaning
 ├── feature_engineer.py # Feature engineering pipeline
 ├── train_model.py # Model definition and training
 ├── evaluate.py # Model evaluation and visualization
+│
 ├── requirements.txt # Python dependencies
 ├── .gitignore # Files to ignore in version control
 └── README.md # This file
