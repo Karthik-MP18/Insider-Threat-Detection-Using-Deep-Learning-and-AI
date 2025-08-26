@@ -100,7 +100,7 @@ The model was evaluated on a comprehensive test set, demonstrating exceptional p
 
 ## 🗂️ Project Structure
 Insider-Threat-Detection/
-├── data/ # Input data directory (see data/README.md)
+├── data/
 │ └── README.md # Dataset download instructions
 ├── imports.py # Centralized import statements
 ├── preprocess.py # Data loading and cleaning
@@ -110,7 +110,6 @@ Insider-Threat-Detection/
 ├── requirements.txt # Python dependencies
 ├── .gitignore # Files to ignore in version control
 └── README.md # This file
-
 
 ## 🔮 Future Enhancements
 
@@ -123,7 +122,7 @@ Insider-Threat-Detection/
 ## 👨‍💻 Author
 
 **Karthik Puranikamath**
-- [GitHub Portfolio](https://github.com/Karthik-MP18 (In Progress)
+- [GitHub Portfolio](https://github.com/Karthik-MP18) (In Progress)
 - [LinkedIn](www.linkedin.com/in/karthik-puranikmath-6b412b211)
 
 ## 📄 License
